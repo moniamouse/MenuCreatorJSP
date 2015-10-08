@@ -1,0 +1,24 @@
+SMAP
+loadFoodCollectionFromCSV_jsp.java
+JSP
+*S JSP
+*F
++ 0 loadFoodCollectionFromCSV.jsp
+Administration/loadFoodCollectionFromCSV.jsp
+*L
+5,12:54
+17:66,3
+18,3:69
+20:120,11
+21:131,5
+22:136
+22,4:74
+26:78,2
+27:80,5
+28:85,2
+29,3:87
+32:90,2
+33:92,5
+34:97,2
+35,4:99
+*E
